@@ -1,5 +1,4 @@
-import java.util.*;
-
+import java.util.Arrays;
 
 public class Array1 {
     public static void main(String[] args) {
@@ -8,9 +7,12 @@ public class Array1 {
         s[1]="Pinky";
         s[2]="Rinky";
 
+        //System.out.println(s);
+
 
 
             System.out.println(Arrays.toString(s));
+
 
             //Arrays.sort(s.Collections.reverseOrder());
 

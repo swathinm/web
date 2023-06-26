@@ -1,4 +1,4 @@
-package java8;
+package java8.Functionalinterface;
 
 public interface Two {
     public void m1();
